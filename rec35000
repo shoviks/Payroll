@@ -1,0 +1,16 @@
+p2:
+total 52
+-rw-r--r--. 1 ugrad 1432 Jul 24 17:07 Employee.cpp
+-rw-r--r--. 1 ugrad  698 Jul 15 16:34 Employee.h
+-rw-r--r--. 1 ugrad  396 Jul 25 19:13 EOverloads.h
+-rw-r--r--. 1 ugrad 1488 Jul 15 16:39 main.cpp
+-rw-r--r--. 1 ugrad  334 Jul 25 19:04 Makefile
+-rw-r--r--. 1 ugrad 1350 Jul 24 16:36 Payrecord.cpp
+-rw-r--r--. 1 ugrad  710 Jul 15 16:36 Payrecord.h
+-rw-r--r--. 1 ugrad 5250 Jul 25 19:11 Payroll.cpp
+-rw-r--r--. 1 ugrad 1691 Jul 24 18:28 Payroll.h
+-rw-r--r--. 1 ugrad   53 Jul 25 13:05 payroll.input.txt
+-rw-r--r--. 1 ugrad 2751 Jul 25 19:06 payroll.output.txt
+-rw-r--r--. 1 ugrad  399 Jul 25 19:13 POverloads.h
+-rw-r--r--. 1 ugrad    0 Jul 25 19:15 rec35000
+/home/ugrads/shovik/cs1730/p2:/home/work/cs1730
